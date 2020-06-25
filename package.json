@@ -1,0 +1,13 @@
+{
+  "name": "extract-images-from-spritesheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "javascriptosaur",
+  "license": "",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "fs-extra": "^7.0.1"
+  }
+}
